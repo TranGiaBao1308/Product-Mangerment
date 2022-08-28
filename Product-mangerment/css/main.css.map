@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,CAAC;EACE,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;EACtB,WAAW,EAAE,oBAAoB;CAClC;;AACD,AAAA,UAAU,CAAC;EACT,SAAS,EAAE,MAAM;EACjB,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,MAAM;CAChB;;ADPH,AAAA,EAAE,CAAC;EACC,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,SAAS;EAClB,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "../BaiTapSCSS/bt-js-api/SCSS/main.scss",
+        "../BaiTapSCSS/bt-js-api/SCSS/_base.scss",
+        "../BaiTapSCSS/bt-js-api/SCSS/_variable.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
